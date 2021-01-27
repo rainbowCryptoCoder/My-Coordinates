@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Coordinates</string>
+    <string name="GPS_permissions">You must accept the permissions to use the application</string>
+    <string name="btn_watch_permissions">Watch Permissions</string>
+    <string name="btn_close">Close</string>
+    <string name="btn_yes">Yes</string>
+    <string name="btn_no">No</string>
+</resources>
